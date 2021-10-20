@@ -1,0 +1,144 @@
+ST00001
+01-04-2021 14:56:24
+27-05-2021 12:58:25
+hw
+1
+Lian Huai Wei
+23
+M
+012-3456784
+Lot 2225 Kampung Baru, 47000 Sungai Buloh, Selangor
+huaiwei@gmail.com
+
+ST00002
+02-04-2021 12:20:59
+02-04-2021 12:20:59
+ChaiSyuen
+chaisyuen1234
+Chew Chai Syuen
+20
+F
+017-8954465
+No 52 Jalan Tpj 5 Taman Perindustrian Jaya, 47200 Petaling Jaya, Selangor
+chaisyuen@gmail.com
+
+ST00003
+03-04-2021 16:25:22
+03-04-2021 16:25:22
+Kingston
+kingston1234
+Wang Yi Xuan
+24
+M
+017-4567894
+B 81 Jln Ss21/37 Ss21 47400 Petaling Jaya, Selangor
+kingston@gmail.com
+
+ST00004
+04-04-2021 16:38:34
+04-04-2021 16:38:34
+Sarah
+Sarah1234
+Sarah Fatimah
+18
+F
+018-4654565
+No8 Jallan Jenaris B Desa Seri Jenaris Jalan Sg Kantan, 43000 Kajang, Selangor
+Sarah@gmail.com
+
+ST00005
+05-04-2021 21:06:31
+05-04-2021 21:06:31
+krystianwang
+nanjun1212
+Wang Nan Jun
+22
+M
+012-5456789
+1 32 Jln Zaaba 70100 Seremban, Negeri Sembilan
+krystian@gmail.com
+
+ST00006
+06-04-2021 12:35:54
+06-04-2021 12:35:54
+Yati2020
+Yatiiiii
+Yati binti Lukman
+39
+F
+017-89455612
+54 Jln 35 Kampung Selayang Baru, 68100 Selayang, Batu Caves, Malaysia
+Yati2020@gmail.com
+
+ST00007
+07-04-2021 15:37:24
+07-04-2021 15:37:24
+RongHao
+haohao123
+Lee Rong Hao
+32
+M
+012-5568792
+Lot 10669 Jalan Kuchai Lama 58200 Kuala Lumpur, Wilayah Persekutuan
+ronghao@gmail.com
+
+ST00008
+07-04-2021 15:39:14
+07-04-2021 15:39:14
+chun1234
+ChunChun
+Lee Yu Chun
+31
+F
+012-5567891
+Lot 9382 Jalan Tepi Sungai Kelang, 47100 Puchong, Selangor
+yuchun@gmail.com
+
+ST00009
+07-04-2021 20:42:00
+07-04-2021 20:42:00
+Neil
+neilneil
+Neil Guan You
+19
+M
+017-4567894
+32550 Persiaran Raja Muda Musa, 41100 Klang, Selangor
+neil@gmail.com
+
+ST00010
+07-04-2021 20:48:17
+07-04-2021 20:48:17
+xingxing
+XingXing1234
+Duan Xing Xing
+20
+M
+017-6773645
+4Th Floor No 1 Jalan Medan Tuanku 1, 50350 Wilayah Persekutuan
+xingxing@gmail.com
+
+ST00011
+13-10-2021 13:52:18
+13-10-2021 13:52:18
+aaa
+aaa
+Aaaaa
+54
+F
+012-4954651
+aaa
+aa@gmail.com
+
+ST00012
+13-10-2021 13:53:19
+13-10-2021 13:53:43
+test
+test2
+Aatt
+18
+F
+012-45641561
+kjl
+aa@ga.com
+

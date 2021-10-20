@@ -1,0 +1,429 @@
+SCH00001
+05-04-2021 23:05:31
+05-04-2021 23:05:31
+04-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00002
+08-05-2021 19:08:25
+08-05-2021 19:08:25
+05-May-2021
+Sport Center B
+Table Tennis
+Hall A
+09:00
+11:00
+Jeffrey Chew Chi En
+5
+Available
+
+SCH00003
+08-05-2021 19:11:22
+08-05-2021 19:11:22
+08-May-2021
+Sport Center A
+Badminton
+Badminton Court A
+08:00
+10:00
+Tan Jian
+5
+Available
+
+SCH00004
+11-05-2021 23:00:44
+12-05-2021 22:15:51
+17-May-2021
+Sport Center B
+Table Tennis
+Hall A
+11:00
+13:00
+Jeffrey Chew Chi En
+10
+Available
+
+SCH00005
+11-05-2021 23:15:26
+11-05-2021 23:15:26
+12-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00006
+12-05-2021 13:20:12
+12-05-2021 22:16:53
+13-May-2021
+Sport Center B
+Basketball
+Basketball Court A
+09:00
+11:00
+Tony Yu Jing Tian
+5
+Available
+
+SCH00007
+12-05-2021 13:23:45
+12-05-2021 13:23:45
+26-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00008
+12-05-2021 17:04:41
+12-05-2021 22:48:18
+13-May-2021
+Sport Center A
+Cricket
+Cricket Field A
+08:00
+10:00
+Farah Binti Hassan
+5
+Available
+
+SCH00009
+13-05-2021 11:16:57
+13-05-2021 11:16:57
+14-May-2021
+Sport Center B
+Swimming
+Swimming Pool A
+09:00
+11:00
+Jacob Lee Xiang
+5
+Available
+
+SCH00010
+13-05-2021 11:17:18
+13-05-2021 11:17:18
+14-May-2021
+Sport Center B
+Gymnastic
+Hall A
+09:00
+11:00
+Devaki Sivanesan
+5
+Available
+
+SCH00011
+13-05-2021 12:05:50
+13-05-2021 12:05:50
+14-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+10:00
+12:00
+Rowvan
+5
+Available
+
+SCH00012
+13-05-2021 14:12:08
+13-05-2021 14:12:08
+28-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00013
+13-05-2021 15:56:03
+13-05-2021 15:56:03
+23-May-2021
+Sport Center A
+Swimming
+Swimming Pool B
+10:00
+12:00
+Jennie Kim
+5
+Available
+
+SCH00014
+23-05-2021 00:20:28
+23-05-2021 00:20:28
+24-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00015
+23-05-2021 00:20:32
+23-05-2021 00:20:32
+25-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00016
+23-05-2021 00:20:38
+23-05-2021 00:20:38
+25-May-2021
+Sport Center B
+Table Tennis
+Hall A
+09:00
+11:00
+Jeffrey Chew Chi En
+5
+Available
+
+SCH00017
+26-05-2021 11:22:31
+26-05-2021 11:22:31
+27-May-2021
+Sport Center B
+Swimming
+Swimming Pool A
+08:00
+10:00
+Jacob Lee Xiang
+5
+Available
+
+SCH00018
+27-05-2021 11:58:35
+27-05-2021 11:58:35
+29-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00019
+27-05-2021 14:26:52
+27-05-2021 14:27:36
+31-May-2021
+Sport Center B
+Football
+Football Field A
+17:30
+19:30
+Jay A. Halpern
+5
+Available
+
+SCH00020
+27-05-2021 21:05:20
+27-05-2021 21:05:20
+02-Jun-2021
+Sport Center B
+Table Tennis
+Hall A
+11:00
+13:00
+K
+5
+Available
+
+SCH00021
+27-05-2021 21:05:56
+27-05-2021 21:05:56
+06-Jun-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00022
+27-05-2021 21:06:17
+27-05-2021 21:06:17
+09-Jun-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00023
+27-05-2021 21:12:23
+27-05-2021 21:12:23
+10-Jun-2021
+Sport Center B
+Gymnastic
+Hall A
+09:30
+11:30
+Devaki Sivanesan
+5
+Available
+
+SCH00024
+01-06-2021 21:33:42
+01-06-2021 21:33:42
+25-Jun-2021
+Sport Center B
+Cricket
+Cricket Field A
+08:00
+10:00
+Yuto Hajimoto
+5
+Available
+
+SCH00025
+01-06-2021 21:40:31
+01-06-2021 21:40:31
+04-Jun-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00026
+01-06-2021 21:40:42
+01-06-2021 21:40:42
+12-Jun-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00027
+01-06-2021 21:40:52
+01-06-2021 21:40:52
+13-Jun-2021
+Sport Center B
+Table Tennis
+Hall A
+08:00
+10:00
+K
+5
+Available
+
+SCH00028
+01-06-2021 21:45:48
+01-06-2021 21:45:48
+11-Jun-2021
+Sport Center B
+Table Tennis
+Hall A
+08:00
+10:00
+K
+5
+Available
+
+SCH00029
+28-05-2021 15:34:00
+28-05-2021 15:34:00
+30-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+08:00
+10:00
+Rowvan
+5
+Available
+
+SCH00030
+28-05-2021 15:42:38
+28-05-2021 15:50:59
+30-May-2021
+Sport Center A
+Swimming
+Swimming Pool A
+10:30
+12:30
+Jennie Kim
+5
+Available
+
+SCH00031
+30-05-2021 21:42:41
+30-05-2021 21:42:41
+31-May-2021
+Sport Center B
+Table Tennis
+Hall A
+08:00
+10:00
+Jeffrey Chew Chi En
+5
+Available
+
+SCH00032
+13-10-2021 13:16:40
+13-10-2021 13:16:40
+16-Oct-2021
+Sport Center A
+Badminton
+Badminton Court A
+08:00
+10:00
+Tan Jian
+10
+Available
+
+SCH00033
+13-10-2021 13:50:05
+13-10-2021 13:50:16
+18-Oct-2021
+Sport Center A
+Gymnastic
+Hall B
+09:30
+11:30
+Nalisa Lalissa
+10
+Available
+

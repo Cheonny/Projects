@@ -1,0 +1,30 @@
+R000001
+I don't like your teaching 
+1
+SCH00001
+ST00001
+
+R000002
+null
+5
+SCH00014
+ST00001
+
+R000003
+ Thank you so much <3  .... 
+4
+SCH00016
+ST00001
+
+R000004
+null
+0
+SCH00030
+ST00001
+
+R000005
+null
+0
+SCH00032
+ST00012
+
